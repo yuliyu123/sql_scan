@@ -12,9 +12,10 @@ Descriptions:
 5. MultiThread scan target url.
 6. Save records into MySQL database.
 
-usage:
+Usage:
 1. Configure mitmproxy certificate into your browser.
 2. python wyproxy.py -p 8085 -m http
+3. Only support python 2.7.10, will support python 3.6.5 in the future.
 
 More features will be added:
 1. Add more request rules filter.
