@@ -38,7 +38,7 @@ class Daemon(object):
 
     def __init__(self, pidfile, stdin=os.devnull,
                  stdout=os.devnull, stderr=os.devnull,
-                 home_dir='.', umask=022, verbose=1, use_gevent=False):
+                 home_dir='.', umask=22, verbose=1, use_gevent=False):
         self.stdin = stdin
         self.stdout = stdout
         self.stderr = stderr
@@ -60,7 +60,7 @@ class Daemon(object):
             if pid > 0:
                 # Exit first parent
                 sys.exit(0)
-        except OSError, e:
+        except OSError as e:
             sys.stderr.write(
                 "fork #1 failed: %d (%s)\n" % (e.errno, e.strerror))
             sys.exit(1)
@@ -76,7 +76,7 @@ class Daemon(object):
             if pid > 0:
                 # Exit from second parent
                 sys.exit(0)
-        except OSError, e:
+        except OSError as e:
             sys.stderr.write(
                 "fork #2 failed: %d (%s)\n" % (e.errno, e.strerror))
             sys.exit(1)
@@ -181,7 +181,7 @@ class Daemon(object):
                 i = i + 1
                 if i % 10 == 0:
                     os.kill(pid, signal.SIGHUP)
-        except OSError, err:
+        except OSError as err:
             err = str(err)
             if err.find("No such process") > 0:
                 if os.path.exists(self.pidfile):

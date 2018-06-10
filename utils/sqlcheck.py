@@ -8,8 +8,8 @@ import logging
 
 # sql_rule = "/Users/looperX/python/security/src/data/filter_sql_rule.txt"
 sql_rule_xml = "/Users/looperX/python/security/src/data/filter_sql_rule.xml"
-explicit_rule_xml = "/Users/looperX/Devlop/python/src/data/explicit_injection.xml"
-time_explicit_xml = "/Users/looperX/Devlop/python/src/data/time_injection.xml"
+explicit_rule_xml = "/Users/looperX/Devlop/security/sql_scan/src/data/explicit_injection.xml"
+time_explicit_xml = "/Users/looperX/Devlop/security/sql_scan/src/data/time_injection.xml"
 msg_queue = queue.Queue()
 
 logging.basicConfig(
@@ -60,6 +60,7 @@ class SqlCheck(object):
                 _content = Downloader.get(target_url)
                 logging.info('loading target_url use explicit injection by get method: ' + target_url)
             else:
+                target_url = url + ' ' + payload
                 _content = Downloader.post(target_url, data)
                 logging.info('loading target_url use explicit injection by post method: ' + target_url)
             for (dbms, regex) in ((dbms, regex) for dbms in DBMS_ERRORS for regex in DBMS_ERRORS[dbms]):
