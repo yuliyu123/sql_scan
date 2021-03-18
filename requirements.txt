@@ -43,7 +43,7 @@ multidict==4.3.1
 nltk==3.2.5
 passlib==1.6.5
 pathtools==0.1.2
-Pillow==3.4.2
+Pillow==8.1.1
 protobuf==3.5.2.post1
 pyasn1==0.4.3
 pycparser==2.18
