@@ -52,7 +52,7 @@ pyOpenSSL==17.5.0
 pyparsing==2.1.10
 pyperclip==1.6.2
 pytz==2018.4
-PyYAML==3.12
+PyYAML==5.4
 requests==2.11.1
 ruamel.yaml==0.15.37
 six==1.10.0
